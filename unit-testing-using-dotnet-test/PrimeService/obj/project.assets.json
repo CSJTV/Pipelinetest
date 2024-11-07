@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\simon\\.nuget\\packages\\": {}
+    "C:\\Users\\caspe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OneDrive\\02 - UCL\\00 - IT SIKKERHED\\02 - VS_CODE\\IT\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+      "projectUniqueName": "C:\\Users\\caspe\\Desktop\\vscodecsharp\\Pipelinetest\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
       "projectName": "PrimeService",
-      "projectPath": "E:\\OneDrive\\02 - UCL\\00 - IT SIKKERHED\\02 - VS_CODE\\IT\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "E:\\OneDrive\\02 - UCL\\00 - IT SIKKERHED\\02 - VS_CODE\\IT\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+      "projectPath": "C:\\Users\\caspe\\Desktop\\vscodecsharp\\Pipelinetest\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+      "packagesPath": "C:\\Users\\caspe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caspe\\Desktop\\vscodecsharp\\Pipelinetest\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\caspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

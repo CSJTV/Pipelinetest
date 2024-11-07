@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimeService.Tests
-build_property.ProjectDir = E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService.Tests\
+build_property.ProjectDir = C:\Users\caspe\Desktop\vscodecsharp\Pipelinetest\unit-testing-using-dotnet-test\PrimeService.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
