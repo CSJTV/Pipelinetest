@@ -10,6 +10,15 @@ on:
   workflow_dispatch:
 
 jobs:
+  test:
+    runs-on: windows-latest
+
+  steps:
+    - uses: actions/checkout@v4
+    - name: Run tests
+      working-directory: ./UnitTests.Invariance
+      run: dotnet test
+
   build:
     runs-on: windows-latest
 
@@ -20,8 +29,9 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.x'
-
+      
       - name: Build with dotnet
+        
         run: dotnet build --configuration Release
 
       - name: dotnet publish
